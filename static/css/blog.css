@@ -1,0 +1,32 @@
+.content{
+width:55%;
+float:left;
+padding:0 0 0 40px;
+height:100%;
+color:#741258;
+}
+.sidebar{
+width:40%;
+float:right;
+padding:10px;
+
+height:100%;
+}
+h1{
+text-align:center;
+border-bottom:1px solid;
+padding-bottom:9px;
+}
+body{
+
+}
+#date{
+color:green;
+font-size:16px;
+font-style:italic;
+}
+#pcount {
+font-size:50px;
+color:green;
+font-weight:bold;
+}
